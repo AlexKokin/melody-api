@@ -20,7 +20,8 @@
  * CDDL HEADER END
  */
 /*
- * Copyright (c) 1989-1997, by Sun Microsystems, Inc.
+ * Copyright (c) 1989-1997,1999 by Sun Microsystems, Inc.
+ * All rights reserved.
  */
 
 #ifndef	_SYS_FD_DEBUG_H

@@ -29,7 +29,7 @@
 #ifndef	_LIBELF_H_
 #define	_LIBELF_H_
 
-#include <sys/types.h>
+#include <stdint.h>
 
 #include <elfdefinitions.h>
 

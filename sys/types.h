@@ -34,11 +34,6 @@
 #include <sys/isa_defs.h>
 
 /*
- * Machine dependent definitions moved to <sys/machtypes.h>.
- */
-#include <sys/machtypes.h>
-
-/*
  * Include fixed width type declarations proposed by the ISO/JTC1/SC22/WG14 C
  * committee's working draft for the revision of the current ISO C standard,
  * ISO/IEC 9899:1990 Programming language - C.  These are not currently
